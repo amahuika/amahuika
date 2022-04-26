@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aron
 - 📖 Software development student
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# .NET
 
 
 
