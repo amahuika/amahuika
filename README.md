@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aron
 - 📖 Software development student
-- 🌱 I’m currently lstudying a diploma in software development.
+- 🌱 I’m currently studying a diploma in software development.
 
 
 
