@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aron
 - 📖 Software developer
-- 🌱 Always learning.
+- 🌱 Learning SilverStripe.
 
 
 
